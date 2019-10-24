@@ -1,0 +1,39 @@
+Vee Bee Consistometer Test | Workability of Concrete Test
+https://civilread.com/veebeeconsistometer/
+
+Workability of concrete is a complex property of concrete. Finding the workability of concrete involves various parameters as workability depends upon stability, mobility, compactibility, place-ability and finish-ability of concrete.
+As mentioned earlier in previous posts, there are different methods for determining the workability of concrete
+Slump test
+Kelly ball test
+K slump test
+Vee bee consistometer test
+Flow table test.
+
+Each test has their importance, and there is no unique test to measure the workability of concrete in total. Vee bee consistometer test determines the mobility and some extent of compactibility of concrete.
+
+The tests mentioned above are already discussed you can click on respective links for more details.
+
+Vee bee consistometer Significance:
+Vee bee consistometer test is named after the developer V Bahrmer of Sweden, and it is covered by IS: 119 – 1959. In this test, we measure the relative effort led by concrete to change from one definite shape to another definite shape by conducting vibration (Conical to cylindrical). This effort is known as Remoulding effort and it is measured in ‘t’ secs. (time) or called as Vee bee Secs.
+
+The time taken by the concrete to undergo complete remoulding is determined as a measure of workability of concrete, and it is shown as Vee bee Secs. This test is usually performed on dry concrete and it is not suitable for very wet concrete. Concrete having slump value more than 50mm remoulds quicker where measuring the time is not possible.
+
+Apparatus of Vee bee consistometer test:
+The apparatus consists of a Vee bee test machine, tamping rod of dia 20mm and length 500mm, Cylindrical Container, Trowels & Stopwatch.
+
+Vee bee Test machine:
+Vee bee test machine consists of a vibrating table which is mounted on an elastic supports. The vibrator is operated electrically. The length and width of a vibrating table are 380mm and 260mm.
+
+On the surface of the vibrating table, a Cylindrical container of height is attached using wing nuts. Slump cone and a cylindrical jar are placed as shown in the figure. The cylindrical container is screwed to the vibrating table through wingnuts.
+
+The slump cone of height 300 is open on both sides and has a dia of 200mm at the bottom and 100mm at the top. The slump cone is inserted into the cylindrical container to perform the test.
+
+Procedure for Vee bee Consistometer:
+1. Insert the Slump cone in the attached cylindrical container. Fill the concrete sample in the cone in four layers; each layer should be one-quarter of the height of slump cone and tamped with tamping rod for 25 strokes each. After tamping the top layer, struck off the concrete with a trowel making the cone correctly filled.
+2. After filling the concrete in the slump cone, the transparent glass disc attached to a swivel arm is moved and placed on the top surface of the concrete and Note the reading from the graduated scale as an “initial reading”
+3. And then remove the cone slowly in the vertical direction and wait until the concrete settles in the new position. Again move the swivel arm and place it on the lowered concrete for the final reading. Note it as “final reading”
+4. Now, switch on the vibrator and start the stopwatch. The vibrations are continued until the concrete is wholly remoulded i.e, the surfaces become horizontal and the whole concrete surface adheres uniformly to the transparent disc. The time required for complete remoulding in seconds is recorded.
+
+5. Note the time taken by concrete to become horizontal (remoulding) as Vee bee Secs.
+
+The consistency of concrete is measured as Vee bee Secs.

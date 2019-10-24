@@ -1,0 +1,27 @@
+Google to Let Users Disable Automatic Login to Chrome
+https://www.darkreading.com/endpoint/-google-to-let-users-disable-automatic-login-to-chrome/d/d-id/1332907
+
+The decision comes days after security researcher had blasted company for jeopardizing user privacy with browser update.
+This story was updated on September 28 to clarify that with Chrome 70 Google will, by default, still automatically sign in users to Chrome when they sign in to a Google account, but users will get the option to disable the link.
+
+Google has reversed course on a controversial recent browser update it introduced with little notice that automatically logs users in to Chrome whenever they sign in to any Google web account.
+
+Starting with the next release of Chrome — Version 70 — Google is adding a control that gives users the choice of linking web-based sign-in with browser-based sign-in. Instead of automatically logging users in to Chrome when they sign in to a Gmail or other Google account, Chrome will let users decide if they want to be automatically signed in to the browser or not.
+
+"For users that disable this feature, signing into a Google website will not sign them into Chrome," Chrome product manager Zach Koch announced in a blog post on September 26.
+
+Importantly, though, the default setting in Chrome 70 will continue to be for users to get automatically signed in to Chrome when they log in to a Google account. What Google is making available with the next Chrome release is an option that lets users disable that setting, a Google spokeswoman clarified to Dark Reading Thursday. "Once the feature is disabled, it will stay disabled," the spokeswoman said.
+
+The decision essentially restores the status that existed before Chrome 69, where users had the choice of keeping their sign-in to Google accounts completely separate from their sign-in for Chrome. A Gmail user concerned about Google collecting their browsing data, for instance, could use Chrome in basic browser mode without being signed in to it.
+
+Google's change of heart comes days after security researcher Matthew Green from Johns Hopkins University had blasted the update in Chrome 69 as being sneaky and posing a substantial threat to user privacy. In a searing and widely quoted blog post, Green described the update as being unnecessary and deliberately putting users at risk of mistakenly allowing Google to collect their browsing data.
+
+Google, meanwhile, described the update as harmless and providing a way to simplify the way Chrome handles logins. The company has maintained that when automatically signing users in to Chrome, it would only collect browsing data if a user explicitly consents to that collection.
+
+Currently with Chrome 69, when a user signs into a Google account, his or her account picture or icon will appear in the Chrome user interface (UI). This enables the user to easily verify their sign-in status, according to Google. Signing out of Chrome will automatically log the user out of all their Google accounts.
+
+In the Google blog post, Koch claimed that Google had introduced that update in response to feedback from users on shared devices who were confused about their sign-in state. "We think these UI changes help prevent users from inadvertently performing searches or navigating to websites that could be saved to a different user's synced account," he wrote.
+
+Koch's post made no reference to the concerns raised by Green and others over the recent update. He merely noted that Google had heard "feedback" and was making changes to Chrome 70 to give users back the control they had over Chrome logins.
+
+Google is also updating its Chrome UIs so users can more easily understand if their browsing data is being synced — or collected. "We want to be clearer about your sign-in state and whether or not you're syncing data to your Google Account," Koch wrote.

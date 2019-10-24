@@ -1,0 +1,35 @@
+Microsoft, Adobe, SAP Launch Open Data Initiative
+https://www.informationweek.com/software/enterprise-applications/microsoft-adobe-sap-launch-open-data-initiative/d/d-id/1332886?
+
+Microsoft, Adobe, and SAP will enable a common data model in a Microsoft Azure-based data lake that allows for interoperability of data among platforms from all three companies.
+Getting a complete view of customers is an ongoing struggle for big enterprise organizations. If you are a big retailer, for instance, your customers interact with you in a number of ways. They shop in the physical store. They visit your web site. They use your mobile app. They visit your Facebook page. They complain about a bad experience on Twitter.
+
+They may interact with your brands in many different ways. Data about each of those different kinds of interactions may be stored by software systems from different vendors, and you know how that goes.
+
+One system doesn't talk to the other system. That means it's really difficult to get a complete picture of your customer. It's as if a photograph of that individual customer is ripped into several different pieces and the pieces are stored in different rooms of your company headquarters.
+As a first step towards improving on this issue, the CEOs of Adobe, Microsoft, and SAP this week announced the Open Data Initiative, a plan to make it easier for companies to unify that data in the cloud, to tape all those pieces of the photo together.
+
+To be clear, so far this is just a statement of intention. There's no real timeline yet for when this vision will be realized, according to Patrick Salyer, general manager of SAP Customer Data Cloud, who spoke to InformationWeek in an interview, following the announcement. The companies have not yet provided a the details of how they will get data stored in one company's proprietary system to talk to the data from another company's proprietary system.
+
+However, the announcement itself is a first step towards that reality, Salyer told InformationWeek. He said that the initiative will encompass all types of data including customer data, transactional data, and more.
+
+"SAP has over 50 different integrations today with various platforms," Salyer said. "At SAP we care very much about openness and customer view. We think this will accelerate what we are already committing to as a business."
+
+Salyer couldn't comment on how many customers the three big software vendors had in common. But three big ones mentioned in the announcement are Coca-Cola Company, Unilever, and Walmart.
+
+Coca-Cola CIO Barry Simpson said in a statement that open standards are crucial to his enterprise's efforts around issues such as privacy and security.
+
+"A more unified approach to the management and control of our data strengthens our ability to support our growth agenda and our ability to satisfy security, privacy, and GDPR-compliance requirements," he said.
+
+Microsoft, Adobe, and SAP said the new Open Data Initiative will rely on a common data model and a common data lake service on Microsoft Azure. It will enhance interoperability and data exchange between the following applications and platforms: Adobe Experience Cloud and Adobe Experience Platform, Microsoft Dynamics 365, SAP C/4HANA and S/4HANA.  
+
+Of course, if your data is on a competing platform, say the Oracle cloud or ERP software, this Open Data Initiative won't help you. The combination of Microsoft, Adobe, and SAP offering a unified customer view, also competes against the cloud native CRM giant, Salesforce.com
+
+According to Adobe, Microsoft, and SAP, customers leveraging the Open Data Initiative will be able to do the following:
+
+bi-directionally move transactional, operational, and customer or IoT data to and from a common data lake,
+create secure data-powered digital feedback loops
+build and adopt intelligent applications that natively understand data, relationships, and metadata that span multiple services from Adobe, SAP, Microsoft, and their partners.
+For those companies that are already customers of all three members of the Open Data Initiative, the partnership sounds like a winning combination.
+
+"We're excited about the Open Data Initiative and the value it will unlock for Walmart," said Clay Johnson, executive vice president and enterprise CIO at Walmart, in a prepared statement. "With greater ability to connect and harness the power of our data, we can enhance the associate experience and create entirely new ways to serve our customers online and in our stores."

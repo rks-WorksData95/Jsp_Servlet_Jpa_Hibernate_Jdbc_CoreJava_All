@@ -1,0 +1,28 @@
+Microsoft Deletes Passwords for Azure Active Directory Applications
+https://www.darkreading.com/cloud/microsoft-deletes-passwords-for-azure-active-directory-applications/d/d-id/1332880
+At Ignite 2018, security took center stage as Microsoft rolled out new security services and promised an end to passwords for online apps.
+It's looking like a password-less future for Microsoft, which will soon give users the option to eliminate passwords for applications by using Azure Active Directory (AD) for authentication.
+
+This was one of many security announcements coming from Microsoft Ignite 2018, taking place this week in Orlando. In addition to password-free authentication, the company is rolling out its new Threat Protection Service and offering Azure Confidential Computing in preview.
+
+Microsoft already lets Azure AD-connected apps authenticate via Microsoft Authenticator, an app it launched in 2016 to combine passwords with one-time codes for two-step verification. Now, users can avoid the password option entirely: the app serves as one form of verification, and a biometric authenticator (fingerprint or facial scan) or PIN serves as the second.
+
+Rob Lefferts, Microsoft's corporate vice president of security, says the move to password-less authentication for Azure AD applications marks "a critical milestone" for both companies and their employees, who are targeted with increasingly subtle and complex phishing attacks.
+
+"Social engineering is a play for end users," he said in an interview with Dark Reading. "So many of the threats and attacks we see on a day-to-day basis are designed to trick users into giving away their credentials."
+
+Most users don't employ strong passwords, so multi-factor authentication is becoming mainstream as companies buckle down on security: SMS and email codes, hardware tokens, and authenticator applications are all widely accepted forms of MFA. For users who view MFA as a burden, Microsoft is aiming to provide the security of MFA while keeping the process simple, Lefferts explains.
+
+"It's not just about more security; it's also about making end users feel more effective," he says. An easier MFA experience gives attackers fewer opportunities to trick people into doing the wrong thing. Employees who want to sign into Microsoft Authenticator will be redirected to its mobile app, where they can authenticate with a biometric factor, he explains.
+
+To gauge the effectiveness of their security policies, businesses can use the newly expanded Microsoft Secure Score, which acts as an "enterprise-class dynamic report card" for security, Lefferts wrote in a blog post on today's news. A company's score serves as a simple metric of how well they're doing security-wise, he notes.
+
+Secure Score already covered features in Office 365 and Windows; now, it will cover all of Microsoft 365 and hybrid cloud workloads in Azure Security Center. Scores are evaluated by integrating signals from Azure AD, Enterprise Mobility and Security, and other services, and bringing the data into one place. Factors are weighted differently based on importance, says Lefferts. At the top of the list are known good practices like enabling MFA for all users.
+
+Microsoft Threat Protection, another service announced today, is designed to detect, investigate, and remediate threats across endpoints, email, documents, identity, and infrastructure in the Microsoft 365 admin console. The idea is to pull together a unified vision of the "cacophony of alerts" that security operations teams handle daily, says Lefferts, and make it easier to spot anomalies they need to investigate.
+
+Threat Protection's dashboard organizes data on active incidents and the users and devices at greatest risk to security threats. The information is organized according to which threats are most imminent, and problems are sorted into "resolved incidents" as admins address them.
+
+Azure Confidential Computing, a platform that lets developers build cloud applications and store data in a trusted execution environment, is now available in preview mode. With data in an enclave, cloud computing ensures data and operations can't be viewed from the outside. If an attacker tries to manipulate the code, Azure denies the operations and disables the environment. An Early Access program for the service went live in September 2017.
+
+"As organizations move to cloud computing, one of the most important things we can do it make sure data is protected in all stages of its lifecycle," says Lefferts. This includes data at rest and in transit, both of which are protected by Azure Confidential Computing.

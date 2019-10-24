@@ -1,0 +1,55 @@
+Prepare for the New Normal of Data Privacy
+https://www.informationweek.com/strategic-cio/prepare-for-the-new-normal-of-data-privacy/a/d-id/1332925?
+In a post-GDPR world, IT and business leaders face unprecedented pressure to demonstrate they are responsible data stewards. Here are six steps that might help.
+American businesses are in for a rude awakening. Sweeping new privacy regulations, such as the EU’s landmark GDPR law and California’s Consumer Privacy Act, along with the ongoing SEC probe of Facebook’s data privacy practices, signal a major shift: Data handling processes that were formerly considered “best practice” are now the expectation.
+
+This transition means that businesses must overhaul their information governance practices and rethink their overarching privacy program. Of course, this is no simple task, especially for multinational businesses that must contend with divergent privacy standards.
+Is your organization drowning in data? Let this guide be a life raft. The six stages of creating an effective privacy program are: development, planning, assessment, implementation, measurement and sustainability, and response. Equip your organization with the tools to avoid costly pitfalls associated with poor data management.
+
+Stage 1: Development
+
+An effective privacy program starts with a clearly articulated vision and mission for internal and external distribution. Developing a short vision and mission statement can help your organization remain consistent while implementing a program that is both effective and aligned with business goals.
+
+In your mission statement, consider what the privacy program will need to address:
+
+What global and local privacy obligations is your organization subject to?
+What are your existing privacy risks?
+What policies, procedures and processes are already in place?
+Along with the program’s vision and mission, it is important to understand and define the scope of the privacy program at the earliest stage. To do so, consider your organization’s legal and regulatory compliance challenges and the data sources that are impacted.
+
+The final step in the development stage is appointing a program champion or sponsor. A program sponsor will be responsible for securing funding and identifying a core data privacy team. It is crucial that members from IT, information security, legal, compliance, HR, training, operations and finance are involved to drive consistent adoption across the organization. For an organization to consider and assess privacy during all phases of a project lifecycle, it must leverage existing business functions. Obtain buy-in from respective leaders and let them set the tone from the top, because regardless of whether one holds a formal title, all individuals play a role in protecting privacy of customers, patients or employees.
+
+Stage 2: Planning
+
+With a program sponsor in place and funding secured, it’s time to establish a framework based on industry standards, such as the AICPA’s Generally Accepted Privacy Principles (GAPP) or the Organization for Economic Co-operation and Development’s Privacy Guidelines. Developing a program based on these principles will set the foundation to develop appropriate policies, procedures, standards and guidelines across the organization.
+
+Stage 3: Assessment
+Before implementing a privacy program, it’s important to assess your organization’s current data governance capabilities. For a thorough assessment, examine your organization’s:
+
+Education and awareness capabilities
+Ability to monitor and respond to incidents or data subject requests
+Existing policies and procedures, including implementation and compliance
+Ability to maintain systems and data maps, including records of authority and ownership
+ Privacy Impact Assessments (PIAs) and Data Protection Impact Assessments (DPIAs).
+If your organization works with third-party data processing vendors, you should also be prepared to assess and enforce external compliance with the program’s requirements.
+
+Stage 4: Implementation
+
+The implementation phase is often the most challenging aspect of establishing a privacy program, especially for a global and decentralized organization. Consistency and communication between stakeholders are key to stay aligned with divergent laws and regulations. During implementation, consider national and local laws, potential fines or penalties for non-compliance and data handling processes across regions and countries. If your organization operates globally, mapping applicable countries to relevant laws and regulations can serve as a useful tracking tool. By developing a comprehensive inventory, your organization can tailor policies to comply with the most stringent governance requirements, allowing the program to hold across numerous jurisdictions.
+
+Stage 5: Measurement & Sustainability
+
+Measuring and regularly reporting on the program’s performance is a critical, but often overlooked, component of sound data governance. Establish continuous monitoring systems to track key performance metrics (KPIs) including compliance, trends, returns-on-investment, business resiliency and maturity levels. IT leaders can further assess the program’s performance through data retention statistics, data destruction practices and overall adherence to program guidelines. An audit program should be implemented to provide either an internal or external view of the program’s viability and adoptability.
+
+Stage 6: Response
+
+Years ago, response referred only to incidence response following a cyberattack. Today, response has a much broader reach. An organization needs to be prepared to respond to individual data subject requests, as well as regulatory requests.
+
+Whether you have a data subject request or incident response need, consider the following:
+
+The type of request or response required
+Handling procedures, including escalation points for both
+Processes and procedures to fulfill a request or a response need
+Review lessons learned for continuous improvement
+Consistent practices across the organization.
+In a post-GDPR world and a climate of intense public scrutiny, IT and business leaders face unprecedented pressure to demonstrate they are responsible data stewards. The new era of data privacy has arrived, and with it comes both risk and opportunity. An organization that knows what data it collects, where it’s stored and how to access it can operate more efficiently and effectively. Corporate America houses an ever-expanding sea of data, and businesses that implement a privacy program now have the best chance of staying afloat.

@@ -1,0 +1,48 @@
+Compressive Strength of Concrete | Cube Test, Procedure, Apparatus & Results
+https://civilread.com/compressive-strength-of-concrete-test/
+
+Concrete being the major consumable material after water makes it quite inquisitive in its nature. The strength of concrete is majorly derived from aggregates, where-as cement and sand contribute binding and workability along with flowability to concrete.
+
+This is an in-depth article on Compressive Strength of Concrete.
+What is the Compressive strength?
+Compressive strength is the capacity of material or structure to resist or withstand under compression. The Compressive strength of a material is determined by the ability of the material to resist failure in the form cracks and fissure.
+
+In this test, the push force applied on the both faces of concrete specimen and the maximum compression that concrete bears without failure is noted.
+Concrete testing helps us to majorly focus on the Compressive strength of concrete because it helps us to quantify the ability of concrete to resists Compressive stresses among structures where-as other stresses such as axial stresses and tensile stresses are catered by reinforcement and other means.
+
+In technical point of view,
+
+Compressive Strength of concrete is defined as the Characteristic strength of 150mm size concrete cubes @28 days.
+Compressive strength of Concrete and its importance:-
+As we all know that concrete is a mixture of sand, cement, and aggregate. The strength of the concrete depends upon many factors like individual compressive strength of its constituents (Cement, Sand, aggregate), quality of materials used, air entrainment mix proportions, water-cement ratio, curing methods and temperature effects.
+
+Compressive strength gives an idea of the overall strength and above-mentioned factors. Through conducting this test, one can easily judge the concrete strength psi and quality of concrete produced.
+
+Factors affecting compressive strength of concrete:-
+Coarse aggregate:-
+Concrete is made homogenous by combining aggregates, cement, sand, water and various other admixtures. But even with proper mixing, there may arise some microcracks due to differences in thermal and mechanical properties of coarse aggregates and cement matrix, which leads to failure of concrete.
+
+Concrete technologists came up with theoretical concepts regarding size of aggregates, which as the size of aggregate being the major contributor of compressive strength. So if the size of aggregate is increased, then it would lead increased compressive strength.
+
+Air-entrainment:-
+Air entrainment in concrete was one of the concepts developed by cold countries in order to prevent damages due to freezing and thawing. Later on, as experimentation’s proved multidimensional benefits of air entrainment along with improved the workability of concrete at lower water/cement ratio.
+
+As the achievement of the desired workability at lower water content helped one to achieve concrete with the greater compressive strength which in turn, leads to light concrete with greater compressive strength.
+
+Water/Cement ratio:-
+We are all very aware of how excess water can be harmful to the strength of concrete. Cement being the major binding material in concrete needs water for hydration process, but that is only limited to about (0.20 to 0.25) % of cement content. The excess water turns out to be beneficial in contributing to workability and finishing of concrete.
+
+The very aspect where excess water is considered harmful because as the water in the concrete matrix dries, it leaves large interstitial spaces among aggregate and cement grains. This interstitial space becomes primary cracks during compressive strength testing of concrete.
+
+
+Casting of specimen
+The casting molds are chosen to be made of cast iron and must be rubbed with grease on inner side for easy removal of cubes. The specimen must be cast in 3 layers (5cm each) and properly compacted in order that honeycombing formation does not take place.
+
+Compaction
+In compacting through tamping bar, 35 strokes must be done in all parts of a cube for proper compacting. This tamping bar has the dimension of diameter 16mm and length of 0.6m.
+
+Age of test
+The cube test for Compressive strength can be done on 1,3, 7, 14 and 28 days. In some cases, the strength of greater ages is required which is performed from 13 to 52 weeks.
+
+Number of specimens
+It is mandatory to have at least 3 specimens for testing from different batches. The mean of compressive strength achieved by this specimen is used to determine actual strength of the batch.

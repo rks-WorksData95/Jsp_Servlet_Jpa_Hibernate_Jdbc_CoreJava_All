@@ -1,0 +1,20 @@
+Don't Be Afraid to Reboot Your Cloud Architecture
+https://www.informationweek.com/cloud/platform-as-a-service/dont-be-afraid-to-reboot-your-cloud-architecture/a/d-id/1332865?
+
+It may sound radical, but one way to deal with increasing cloud complexity is a complete reboot of your cloud architecture.
+As cloud infrastructures grow -- and as thoughts of multi-cloud begin to take shape -- many IT leaders are being met with the stark realization that the complexity of managing their cloud is also on the rise. If you're one of those people, you're not alone. Forbes recently discussed this exact phenomenon. Yet, it seems that while many are pointing out the problem, few are offering solutions.
+
+Despite pushback by business and technical leaders that may be dead set against it, the way to fix increasing cloud complexity may be a complete reboot of your cloud architecture.
+
+It should be pointed out that most enterprise cloud architectures in production today are no more than a decade old. When compared to the lastingness of previous infrastructure architectures, which lasted decades without major revisions, IT and business decision makers feel that they "just implemented" their current cloud design. Thus, to have to go through a complete redesign in such a short period of time seems outrageous.
+
+While infrastructure architectures may have been able to last for decades in the past, the rapid advancement of IT innovations across the board is forcing redesigns at a far more rapid pace. This is a key philosophical point that IT leadership must understand. Not doing so will result in bolting on new technologies to an infrastructure that's not capable of handling emerging business needs. Ultimately, this is what will create new cloud complexities that don't necessarily need to be there.
+
+Beyond a transformation in ideology regarding cloud architecture longevity, the other key hesitation many have with rearchitecting the cloud are the technical and bureaucratic challenges that accompany a re-design. Concern stems from the fact that most clouds are managed by third-party cloud services providers (CSP's). Early adopters to cloud computing often felt "locked-in" to a particular provider. CSP’s purposefully made it easy to move data and apps into their cloud, but difficult to move them out. While this issue may have been valid years ago, they don't hold water today.
+
+For one, CSP's are beginning to open a customer’s ability to migrate apps and data both in and out of their clouds. Providers realize that multi-cloud is the next evolution in enterprise computing. Thus, they'd be foolish to maintain the strategy of locking customers in. Multi-cloud-friendly is the latest trend in the world of cloud computing.
+
+The other key to eliminating re-architecture challenges as it relates to CSP’s is the continued advancement of multi-cloud platforms. These platforms are instrumental in any cloud re-architecture in 2018. The tools within these platforms can help to ease the pain when migrating away from outdated architectures onto modern designs that better handle new cloud features and services.
+
+If you’re in the situation where your growing cloud ambitions are going to create increasing levels of complexity with which to configure and manage, don’t ignore the obvious solution. While a complete re-architecture may seem premature and too difficult of a challenge to take on, it’s often the right thing to do and far less of a headache than you think to pull off. Although it may not be the right choice for every enterprise cloud architecture in production today, it certainly can be for early cloud adopters that are looking for a long-term fix.
+

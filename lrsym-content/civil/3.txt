@@ -1,0 +1,30 @@
+Flow table test of concrete to test workability of concrete
+https://civilread.com/flow-table-test-concrete/
+Workability is a complex property of concrete which directly impacts on Concrete strength, quality and appearance and it also determines how easily freshly made concrete can be mixed, placed, compacted and finished with the minimum to no loss concerning homogeneity.
+
+As mentioned, its a complex property which involves many factors concerning the good workable concrete. To test the freshly mixed concrete workability, the following tests are usually performed on field and lab.
+
+Slump test
+Kelly ball test
+K slump test
+Vee bee consistometer test
+Flow table test.
+
+Flow table test of concrete:
+As the name suggests, in this test the workability of concrete is determined by examining the flowing property of concrete.
+
+Flow table test of concrete also determines the Quality of Concrete concerning the consistency, cohesiveness of concrete and the proneness to segregation.
+As there are two methods to find the flow value of concrete which one is outdated. Here we are explaining the new method of flow table test. This new flow table test is covered with BS 1881 part 105 of 1984 and DIN 1048 part I.
+
+Apparatus of Flow Table Test:
+Flow table made of metal having thickness 1.5mm and dimensions 750mmx 750mm, tamping rod made of hardwood, Scoop, Centimeter Scale, Metal Cone or mould (Lower Dia = 20cm, upper Dia = 13 cm, Height of Cone = 20cm). The middle portion of flow table is marked with a concentric circle of dia 200mm to place a metal cone on it. A lift handle
+The more details about Flow table is depicted in the below image go through it if required.
+Procedure of flow table test:
+Prepare concrete as per mix design and place the flow table on a horizontal surface.
+Clean the dust or other gritty material on Flow table and Sprinkle a hand of water on it.
+Now place the metal cone at the middle portion of the flow table and stand on it.
+Pour the freshly mixed concrete in the mould comprising two layers; each layer should be tamped with tamping rod for 25times. After tamping the last layer, the overflowed concrete on the cone is struck off using a trowel.
+Slowly, lift the mould vertically up & let concrete stand on its own without any support.
+The flow table is raised at the height of 12.5mm and dropped. The same is repeated for 15times in 15secs.
+Measure the spread of concrete in Diameter using centimetre scale horizontally and vertically. The arithmetic mean of the two diameters shall be the measurement of flow in millimetres.
+

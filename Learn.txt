@@ -1,0 +1,13 @@
+Today i learn about
+
+basics of jsp
+jsp scripting element
+jsp implicit object
+jsp directive element
+jsp exception handling
+jsp standard tag
+expression language
+
+and also learn about
+
+basics of servlet

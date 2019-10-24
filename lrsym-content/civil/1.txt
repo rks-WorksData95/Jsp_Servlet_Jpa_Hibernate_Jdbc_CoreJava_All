@@ -1,0 +1,39 @@
+Plate Load test to Calculate Safe Bearing Capacity of Soil
+https://civilread.com/plate-load-test/
+
+Plate load test is performed to determine the ultimate load bearing capacity of soil over the in-situ conditions. The plate load test is mandatory in case of designing foundation over the sandy and clayey soil. This test gives the highest rate of accuracy determining the safe bearing capacity of soil in case of shallow foundations.
+
+This test determines the Ultimate Bearing capacity of Soil, Settlement of foundation & Allowable bearing pressure of soil. Plate load test is suitable for Cohesionless soil as in case of Cohesion soil the settlement takes place in longer duration which this test is not suitable.
+
+In this test, the square rigid plate having dimensions 300mm x 300mm or Circular rigid plate having dia 300mm (larger dia plates may also used if the soil is in very loose condition) is placed on a foundation and load is applied in increments on the plate with the help of hydraulic jack. Then the settlement per each load increment is recorded to calculate the bearing capacity of the soil. This test is also known as Plate bearing test procedure and calculation is clearly explained below.
+
+The importance of plate load test lies upon the factors as it helps in determining the best type of foundation. As in case if the safe bearing capacity (SBC) of the soil is less, then we need to adopt raft foundation and in case if the soil conditions are detrimental then we need to perform analysis of the soil as per recommendations.
+Plate load test is performed under two variations:
+1) Gravity load test (Reaction Loading method)
+2) Reaction truss method
+
+The total duration required to perform a complete test varies from 6-7 days which includes installations, test, dismantling. The results of the test in case of soft strata can be obtained within a few hours whereas in case of hard strata it might take close to a couple of days.
+
+Plate Load Test:-
+1.Gravity load test
+In this type of method, a rigid platform is utilized to transfer loads through loading of sandbags or concrete blocks. These blocks and sandbags act as a dead weight, and whole arrangement rests upon vertical columns. The hydraulic jack is provided in between the rigid plate and top of the column to transfer the load properly.
+2.Reaction truss method
+In this method, the reaction generated through jack is borne by reaction truss installed over it. The undesirable movement of truss is controlled by soil anchors or nails fixed into the soil with the help of hammers. The most commonly observed truss is made of mild steel sections. In order to curb later movement, truss is locked with guy ropes.
+
+The apparatus used in above mentioned two tests are different, but the principle and calculations involved in finding the safe bearing capacity of the soil are same.  The plate bearing test procedure and calculation clearly explained below. 
+Procedure for Plate load test:
+The pit is excavated over the site of test with the size of 1.5×1.5m and to the depth of proposed foundations.
+One needs to find the centre of excavated pit and portion to the size of the plate is eroded to the depth 1-2 cm.
+Ensure that the foundation area must be 5 times the area of plate and the seating load of 0.07Kg/cm² is applied to prevent undulations below the plate.
+The eroded portion is filled with rock dust in order to counter undulations and that of plate installed is completely horizontal which on later is checked by tube level.
+Spacers are installed over the hydraulic plate on which hydraulic jack is installed.
+The hydraulic jack in order to counter the load applies pressure which in result leads to transmission of pressure over the plate.
+Setting load of 7kN/m² is applied for some time and released. This is followed by the application of safe load with an increment of 30%.
+In case of loading through truss, both free sides are anchored with soil nails with uniformly loading at the ends.
+Results recording:
+Dial gauges arranged at the bottom of the pit record are used to record settlement at every 5 minutes for first 30 minutes and every 10 minutes for rest 30 minutes.
+The observation are made until 25 mm settlement is observed which can take few hours for clayey and soft soil or even up-to couple of days for hard strata.
+Precautions:
+It is utmost necessary that the alignment of spacers, hydraulic jack, (truss/gravity platform) are axially along the straight line so that the load is transferred vertically. The minimum duration of test should be 60min.
+Result of Plate Load Test:
+The settlement in the foundation can be determined by following plate load test which on a later basis is handled to the structural designer to design foundation and complete building structure.

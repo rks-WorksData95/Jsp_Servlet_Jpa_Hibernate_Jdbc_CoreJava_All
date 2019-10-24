@@ -1,0 +1,20 @@
+Facebook Hacked, 50 Million Users Affected
+https://www.darkreading.com/attacks-breaches/facebook-hacked-50-million-users-affected/d/d-id/1332927
+A vulnerability in Facebook's "View As" feature let attackers steal security tokens linked to 50 million accounts, the company confirms.
+Facebook today confirmed a major security breach affecting nearly 50 million people, whose accounts were compromised when a vulnerability let hackers steal security tokens linked to their profiles.
+
+The flaw was in Facebook's "View As" feature, which lets account holders see what their profile looks like to someone else – a friend, the public, etc. Attackers could exploit the bug to steal Facebook access tokens, which can be used to take over accounts. Tokens act as "digital keys" to keep people logged in so they don't have to enter a password every time they use the app.
+
+Facebook has fixed the vulnerability, alerted law enforcement to the breach, and temporarily disabled the "View As" feature while it investigates the problem.
+
+While the investigation is still ongoing, Facebook has confirmed the attack stemmed from a change it made to a video uploading feature in July 2017, which affected the "View As" feature. Attackers needed to find the bug, use it to steal an access token, then pivot from their target account to other accounts in order to steal more of these tokens.
+
+There is no need for anyone to change their passwords, says Guy Rosen, VP of product management, in a blog post on the disclosure. Facebook has also reset the security tokens for the 50 million affected accounts, as well as 40 million additional accounts which have been viewed using the "View As" feature within the past year.
+
+In total, about 90 million of Facebook's two billion users will have to log back into their accounts today, as well as any apps accessed via Facebook Login. When they do, they'll see a notification at the top of their News Feed explaining what happened.
+
+Rosen states if Facebook discovers more affected accounts, it will immediately reset access tokens. For anyone taking the precautionary step of logging out of Facebook, the site's Security and Login section lets you see where you're logged in and lets you log out of all devices at once.
+
+Facebook, still early in its analysis, says it does not know who might be behind this attack or where the actor(s) could be based. Today's news has left some industry experts concerned about why the vulnerability wasn't detected sooner.
+
+"It's surprising to me that as popular as Facebook is, no white hat hacker ever discovered and reported this flaw in the past, neither an external pen tester nor Facebook's internal IT security team," says Paul Bischoff, privacy advocate with Comparitech. "I would be interested to know how long this flaw existed before it was discovered and exploited."

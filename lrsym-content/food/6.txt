@@ -1,0 +1,65 @@
+Keep dairy products moving efficiently
+https://www.dairyfoods.com/articles/93139-keep-dairy-products-moving-efficiently
+Manufacturers of conveyors and palletizers discuss best practices for choosing and installing these systems
+Conveyor systems keep the raw materials and finished products moving throughout a dairy plant. The right conveyor system, installed correctly, can help keep a plant running efficiently. Likewise, a robotic palletizing system can help improve plant operations, thanks to its flexibility and ability to palletize various product types.
+
+ 
+
+Choose the best system
+There are several important factors to consider when choosing conveying or palletizing equipment for a dairy plant. We asked some experts for their feedback to help plant managers make the best decisions.
+
+Joe Miller, COO, Multi-Conveyor LLC, Winneconne, Wis., said it’s important that the conveyor system is designed with safety in mind. In addition, dairy plant decision-makers should look at its ease-of-use, longevity and sanitation features (clean-in-place capability is a top request). They should also make sure it’s made with quality components and will exceed the application’s requirements. 
+
+“Sanitary conveyors need to be designed with stainless steel construction and built to food industry and plant-specific requirements, including 3-A in some cases, as dictated by sanitation or food safety inspection mandates,” Miller said.
+
+After-sales service, parts and warranty are also important, he added.
+
+“A manufacturer will want to ensure they are looking at a washdown solution for their sanitary environment,” said Mike Brewster, director of sales and marketing, Schneider Packaging Equipment Co. Inc., Brewerton, N.Y. “For the dairy industry, Schneider recommends a stainless-steel design to create a long-lasting, reliable and sanitary solution.”
+
+Safety is the No. 1 consideration manufacturers must weigh when selecting their equipment, according to Michael Wilman, who works in business development, North America for Premier Tech Ltd., Rivière-du-Loup, Québec.
+
+“Dairy manufacturers should always understand the palletizer safety classification, OEM [original equipment manufacturer] risk assessment process and general design practices deployed to ensure individuals are safe when operating equipment,” he said. “Selecting an equipment provider where safety is at the forefront of machine designs is paramount.”  
+
+It’s also important to consider the type of dairy products being produced and tasks that a manufacturer needs to accomplish when specifying the appropriate vibratory feeder or conveyor system, said John Klinge, light industry product manager, Eriez, Erie, Pa.
+
+“For example, shredded cheese can be meter fed very efficiently using a vibratory feeder into a radial combination scale system,” he noted.
+
+Bryan Sinicrope, vice president of sales and marketing for A-B-C Packaging Machine Corp., Tarpon Springs, Fla., said it’s important to know if the palletizer will be subjected to washdown or be in a wet area so it can be built to that specification. This information should be discussed early with the supplier, he added.
+
+ 
+
+Best practices for installation
+When it comes to installing conveyor and palletizer systems, dairy plant decision-makers will want to keep some best practices in mind.
+
+Brewster said its good practice for a dairy processor to partner with an organization that has experience within their industry.
+
+“A dairy manufacturer will want to allow the OEM to come on-site and see their current operation and talk about what they are looking to accomplish,” Brewster noted. “Once their goals are on the table, the OEM can then begin to capture the specifics of the project — [for example,] what throughput they are looking to achieve and if there is an adequate amount of space to accomplish what they are looking to do.”
+
+Wilman noted the importance of analyzing every aspect of the equipment in the first stages of concept development. And he also emphasized the significance of an on-site visit from the automation partner.
+
+“Nothing speaks louder than actually seeing the plant the application will be designed for,” he said. “This step will help build trust. On-site visits also ensure your supplier will take every element into consideration.”
+
+Kling said to also consider the distance the dairy product needs to travel. 
+
+“For example, a single-drive vibratory feeder can convey products up to 6 feet. Beyond that, a vibratory conveyor or series of vibratory conveyors can move products from 20 feet up to several hundred feet,” he said.
+
+It’s also important to keep in mind the facility’s requirements, Sinicrope noted.
+
+“Get all your specs in order and communicate with your potential suppliers,” he said. “There are industry-standard formulas for determining palletizer speeds based on packaging line speeds. It is important to try to be realistic while planning for possible expansion and not overestimate.”
+
+Evan McCrea, marketing specialist for Deville Technologies, Montreal, said it’s important, too, to avoid placing equipment near drains and air ducts to avoid any contamination risks.
+
+“Manufacturers must also have clear, concise sanitation procedures from their OEM to avoid pitting, corrosion and other potential equipment damage,” he added.
+
+ 
+
+Avoid costly missteps
+As with the purchasing and operation of any other equipment, missteps can happen. But dairy processors could take steps to avoid them.
+
+“The biggest concern is purchasing a conveyor without doing due diligence on safety and sanitary requirements for the dairy industry,” Miller emphasized. “Conveyors are the lifeline component of your production line that keep your products moving. Don’t let price or unusually quick delivery requests take over as your focal point. When comparing conveyor systems, make sure they’re apples-to-apples in construction, performance, safety and compliance.”
+
+Wilman noted the importance of proper training and how it’s best to work with a company that provides “first class operator training.”
+
+On the palletizer side, Rick Gessler, vice president of marketing and engineering for Delkor Systems Inc., St. Paul, Minn., said the most common error his company sees is calculating conveyor buffer capacity based on steady-state production.
+
+“In other words, what is the status of the conveyor accumulation when a completed pallet is moving out of the palletizing cell and the robot has to stop picking product? What is the status of the conveyor accumulation when the robot is picking a layer sheet and the robot has to stop picking product?” he explained. “Working with experienced companies helps to ensure that the right questions are asked and that producers aren’t left with a system that falls short of expectations.”

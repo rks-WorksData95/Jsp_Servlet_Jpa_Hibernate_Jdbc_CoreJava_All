@@ -1,0 +1,36 @@
+Schmidt hammer or Rebound Hammer test of Concrete
+https://civilread.com/concrete-rebound-hammer-test/
+
+Rebound Hammer Test: –
+Testing the strength of concrete without destructing or breaking it after hardening is a complex task.
+
+As we already discussed the Compressive strength of concrete by Concrete Cube test which is a destructive test worked out in the lab. You can refer here.
+Rebound hammer test is a Non-destructive (NDT test of Concrete) and simple concrete test which is used to test the Compressive strength of concrete without any damage. Moreover, the best part of Rebound hammer test is concrete can be tested in real time at the site instead of going to the lab without any damage.
+
+Concrete Rebound hammer test was first covered by IS 13311 (Part 2) – 1992. Swiss engineer Ernst Schmidt is the name of the scientist who first introduced Rebound hammer test, and it is also called as Schmidt hammer test or Swiss Hammer Test.
+
+Now let’s dive into rebound hammer test:
+
+Before knowing the procedure learn how Schidmt hammer works and measures Compressive strength of concrete.
+About Schmidt hammer test:
+Schidmt hammer consists of Spring loaded hammer Elastic mass (test equipment) ended with a plunger which can be easily operated with your hand. This hammer is impacted on the surface of the sample. The Schidmt hammer hit the concrete at defined energy, and rebound number is measured with the help of writer and the rebound number correlated with the Compressive strength of concrete.
+For understanding, Take a rubber band and stretch it oppositely, Rubberband has an elastic property which it regains or rebound to its original position Similarly, Schmidt hammer is impacted on a concrete surface and then it rebounds to its original position. For more details about Hammer refer the following figure of Schmidt Rebound Hammer.
+The impact of rebound is evaluated using a graph of the hardness of the concrete & rebound number, and then the compressive strength is calculated.
+
+Operation of the Schmidt Rebound hammer:
+The operation of Schmidt hammer is depicted in the following diagram and you can also refer the above figure 1  for clear understanding.
+From Figure 3, the first image of  the Rebound hammer is set the right angle to the concrete surface and in the second hammer is pushed to the concrete surface at defined energy. And in the third, the hammer is released, so in the fourth image, the hammer rebounds and shows rebound number in the graduated scale.
+
+Procedure for Schmidt hammer test or Rebound Hammer Test:
+Before starting the procedure calibration of the hammer is required. To do this, the Schmidt hammer is tested against the Steel test anvil which has a Brinell hardness number of about 5000MPa.
+
+Clean the surface of concrete, ensure the concrete is clean and dirt free.
+As mentioned in the Operation of Rebound hammer, it involves four stages in the first stage the hammer is held at right angles to the Concrete Surface of structure for finding the rebound number.
+Ensure that the hammer is placed exactly right angle to the concrete surface other angles may show a discrepancy in results.
+The procedure is same for different positions but ensure that you are holding the hammer in right angles to the test specimen. Suppose to test the strength of column the Horizontal Position is implemented. Similarly for testing beam strength Vertical Upward Position is implemented.
+After Holding Hammer in position then the plunger is made to hit the concrete surface with impact energy.
+Approximate Impact energy levels are mentioned in the below table. The impact energy is different for different applications of concrete.
+Disadvantages of Rebound hammer:
+The Hammer should be precisely pushed in right angle to the surface other intermediate angles show wrong results.
+Flaws cannot be detected easily, and periodic maintenance is must required.
+Rebound hammer test is influenced by various factors: type of cement & aggregate, atmospheric moisture and presence of moisture content in concrete constituents and curing methods.

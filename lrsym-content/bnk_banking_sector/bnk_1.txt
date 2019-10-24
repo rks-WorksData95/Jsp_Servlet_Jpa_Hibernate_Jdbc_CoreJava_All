@@ -1,0 +1,38 @@
+Top 10 Retail Banking Trends and Predictions for 2018
+https://thefinancialbrand.com/69180/2018-top-banking-trends-predictions-outlook-digital-fintech-data-ai-cx-payments-tech/all/
+The ranking of the top 10 trends and predictions was done by providing a list of trends identified by our crowdsourced panel and asking banks, credit unions and the supplier community globally to provide their top 3 predictions for 2018. Of the organizations that provided their top 3 trends, the highest ranking prediction was that the industry was going to remove friction from the customer journey (61%). The next two most mentioned trends were the improved use of data and advanced analytics, and refinements in multichannel delivery (mentioned by 57% and 42% respectively).
+
+Interestingly, with the exception of one trend (testing and use of blockchain technology), the trends and order of these trends were the same as last year. Last year’s trend of investment in innovation did not make the top 10 this year. The importance and underlying components of each trend differed in this year’s research compared to the predictions for 2017.
+
+The fact that the list of trends identified by the financial services industry has remained relatively consistent could be a symptom of a greater problem. The banking industry is moving much too slow, and legacy firms are failing to differentiate themselves. According to Forrester, “In a market where one-third of all customers say ‘all banks are basically the same,’ it would make sense for executives and their teams to obsess over how to differentiate. Unfortunately, 2018 will look more like a digital arms race between warring incumbents than a year in which firms find new ways to specialize and create value for customers.”
+
+Regarding changes in emphasis for this year’s trends, removing friction from the customer journey increased in importance from last year, with 61% of organizations placing this trend in the top three, compared to 54% last year. The trend around the use and application of data also increased in importance from last year, with 57% of those surveyed placing this in the top 3 for 2018, compared to 53% in predictions for 2017. Other notable shifts of importance included a greater belief that open banking APIs would be important, less emphasis on regulatory changes and a greater belief that advanced technology would have an impact in 2018.
+
+Get the 2018 Retail Banking Trends Report
+
+
+Top 10 Strategic Priorities for 2018
+When we asked financial services organizations worldwide about their top three strategic priorities for 2018, there was a significant change in priorities compared to last year’s research. While the order of the top three priorities remained the same as last year, the priority of reducing operating costs dropped from 41% last year to only 32% for 2018. At the same time, the priority of investment in innovation dropped from the 4th position to 7th, with the number of firms mentioning innovation falling from 26% to 22%.
+
+The biggest jumps in strategic priority in 2018 were seen with the emphasis on automating core business processes (up 13%) and recruiting talent (up 8%). These shifts illustrate the growing importance of becoming a digital bank and the impact of this transformation on the types of employees required to address new challenges.
+
+
+
+Here is what some of our crowdsource panel had to say about 2018.
+
+“2018 will see developments across the banking industry, including a more mature application of fintech solutions, greater use of digital payments, the opening up of banking thanks to API built architectures, the first significant progress with blockchain technology, and the harnessing of AI and RPA solutions. These changes will all occur as global tech giants (including those from China) change the financial services battleground.”
+– Roberto Ferrari, Chief Digital and Innovation Officer at Mediobanca Group
+
+
+Data: The Key to Delighting Financial Customers
+
+Are You Maximizing the Exposure of Your Digital Account Opening?
+
+“Financial institutions have spent the last few years painting the vision of what it means to be a digital bank. In 2018, we’ll see a significant shift from optimization ­ streamlining and automation – to creating new revenue streams. This revenue may come from new business models or simply new products and services, but it signals a recognition that simply doing the same things better is no longer enough.”
+– Nicole Sturgill, Principal Executive Advisor at CEB now Gartner
+“Investing in new skill sets will be critical. The digital talent gap is only widening and organizations that can’t keep pace will be crippled by it. Now more than ever, the right talent is truly a competitive advantage.”
+– Danielle Guzman, Global Head of Social Media and Distributed Content at Mercer
+
+“2018 will see a radical change in how traditional financial institutions approach digital transformation.  The Chief Digital Officer concept will be replaced as companies seek to embed digital transformation ­ for both customer value proposition and business model transformation ­ into the roles and expectations for every job in the organization and every initiative undertaken.  Digital management, much like risk management in recent years, will become everyone¹s job.  This will launch a wave of transformation, especially in traditional banking.”
+– Mary Beth Sullivan, Managing Partner of Capital Performance Group
+

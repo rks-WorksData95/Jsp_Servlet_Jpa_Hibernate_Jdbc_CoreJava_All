@@ -1,0 +1,31 @@
+The Advantages of Electronic Document Management System
+https://smallbusiness.chron.com/advantages-electronic-document-management-system-2873.html
+Even in the 21st century, a small business may be able to keep most of its records on paper. Given the growing amount of data hacked from major companies, paper might even seem more secure. There are genuine advantages to turning files into digital data, though. With sensible precautions, you can minimize the potential downsides.
+
+
+ 
+The Benefits of Going Digital
+If you don't want to devote space to file cabinets, electronic storage offers a good alternative. Your laptop or desktop computer can record your business transactions, send and store invoices, and keep your financial records without taking up any added space. It can do your bookkeeping for you, adding up expenses and income.
+
+Storing digital documents somewhere multiple staffers can access them boosts efficiency. For example employees assigned to the same project can reference, write or edit documents together without having to be in the same room, or even while working from home. If you don't want to devote substantial money or staff to an IT department, cloud computing is an option. Rather than use your own data servers, you pay companies to store your documents on remote servers accessible online.
+
+
+ 
+Old Paper
+You can save all the space you currently devote to paper files by scanning your existing paper records into the new system. If your business has been open long enough to accumulate a couple of file cabinets of paperwork, this will be a challenge. Either your staff will have to devote time to scanning paper in, or you pay someone else to do it. If you outsource the job, you or an employee will still have to double-check that the new new electronic documents have been filed properly.
+
+It may be simplest to take it slow, converting files you know are important for upcoming projects or meetings rather than rushing to convert everything. After you digitize the papers, you can shred most of them.
+
+Tip
+Ask your attorney if you're legally required to keep some documents in hard copy. Most states, for example, require paper copies of wills and mortgages.
+
+Protecting the Data
+Before you switch to an electronic system, figure out how you'll keep the data secure. Even if you're storing it in the cloud, your service provider may expect you to put in most of the effort on your data security.
+
+Encrypt your data, or at least the most important data.
+Make sure your own network is secure, with a good firewall and security software.
+Train your employees in basic IT security, such as not leaving their passwords written down or responding to "phishing" emails.
+Reduce the human factor. Employees shouldn't be able to access data they don't need.
+Two-thirds of data breaches are caused by human failure. If your people are well trained, that in itself reduces the drawbacks of electronic data storage.
+
+It's also important to back up your data. Whether you have duplicate copies in the cloud or on a server, it's essential you keep copies in case your main storage system gets wiped out, is physically destroyed or crashes.

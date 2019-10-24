@@ -1,0 +1,13 @@
+Blockchain: 5 Use Cases for the Enterprise
+https://www.informationweek.com/software/information-management/blockchain-5-use-cases-for-the-enterprise/d/d-id/1332911?
+
+Everybody talks about blockchain, but is anybody really doing it? Here's a look at five use cases across industries.
+Every year in the tech industry there's some technology that is getting tons of buzz but not many people are really doing it yet. In past years that may have been cloud computing or containers or big data or Hadoop. For the year 2018, blockchain most certainly fits this description.
+
+That's because although you may be hearing about blockchain all the time, not many people are doing it. Only 1% of CIOs responding to the Gartner 2018 CIO Survey indicated that they had any kind of blockchain adoption in place. Just 8% said they were in short-term planning or the pilot phase of blockchain.
+
+However, blockchain has been the number one search term on Gartner.com since January 2017. Interest levels are high.
+
+How come? First, let's look at the definitions. Blockchain has been best known because of its connection to the cryptocurrency bitcoin. The distributed ledger system creates "blocks" of transactions that are verified and chains them together. The data committed to blockchain is immutable -- it cannot be changed. Part of the appeal of this technology is that it operates in a decentralized manner. There is no need for an all-knowing, all-controlling central authority like a bank to administer and verify everything. The combination of the blocks that are chained together, the immutable data and the cryptography to secure it all creates a system that can be trusted for transactions among untrusted partners, even without a central authority to oversee it.
+
+Cryptocurrency was the original use case for blockchain. It's no surprise that early additional use cases have also be in the financial technology industry sector. But clearly, given the enthusiasm Gartner has seen on its site, enterprises are interested in applying blockchain technology to other areas as well, even if they don't quite know where and how yet.

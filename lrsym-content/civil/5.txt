@@ -1,0 +1,42 @@
+K Slump Test of concrete | Workability of Concrete Test
+https://civilread.com/k-slump-test-of-concrete/
+
+Workability of concrete is a most essential & complex property of Concrete. Making an excellent workable concrete involves many factors and Finding the workability of concrete is a huge task for civil engineers which involves lengthy calculations. To find this, researchers found some essential tests which give accurate results on the workability of concrete.
+
+Slump test
+Compaction factor test
+Flow table test
+Kelly ball test
+Vee-Bee consistometer test
+K Slump Test
+Out of them, the slump test is the most prominently used. But testing the sample batch to batch with Slump test takes more time and effort. To minimize this, researchers found a new & modern test which gives a precise and accurate slump value of concrete by K-Slump tester.
+
+K Slump test is first covered by ASTM C 1362 and used to determine the workability of concrete and degree of compaction of fresh concrete. K slump test is an instant & direct test where slump value is evaluated in one minute. It has a tester which is inserted in fresh concrete to measure the slump value of concrete. K slump test is also useful for finding the relative workability of concrete.
+
+Apparatus of K Slump Test:
+I request you to the read following points by looking into the picture.
+The K slump tester is made with chrome plated steel, Aluminium, and plastic. The upper part is made of Plastic serves as a handle, and the lower part made of the chrome plated steel tube is used for testing.
+
+The lower part of K slump tester:
+The round chrome plated steel is hollow and has an external dia of the 1.9cm and internal diameter of 1.6cm. The length of the tube is 25cm, and it also includes the solid cone at the bottom which facilitates inserting the tube into the fresh concrete.
+
+The lower part of the steel tube is also provided with two types of openings. 4 Rectangular slots of 5.1cm long and 0.8cm wide.
+22 round holes of 0.64cm
+As exhibiting 22 holes in the diagram isn’t possible so, I have depicted it with 8holes.
+
+Middle part of K Slump Tester:
+The disc floater of dia 6cm and thickness 0.24cm divides the tube into two parts. The disc is used to prevent the k slump tester from sinking into the fresh concrete exceeding the preselected level.
+Upper part of K Slump tester:
+The upper part of K slump tester has a hollow plastic tube of dia 6cm, and 0.24cm thickness which is graduated with centimetre scale and the bottom portion of tube has the aluminium cap 3 cm diameter and 2.25 cm long which has a little hole and a screw that can be used to set and adjust the reference zero of the apparatus.
+
+The Hollow plastic rod can move freely inside the chrome plated tube through the disc. The rod is also provided with the small pin which is used to support the measuring tube at the beginning of the test.
+Remember: both tubes are hollow.
+Procedure of K Slump Test:
+1. Wet the tester and clean it with a cloth.
+2. Raise the plastic tube let it sit on the pin support.
+3. Take a container and pour some fresh concrete and level it.
+4. Now insert the k slump tester vertically down until the disc floater rests at the surface of the concrete. Do not rotate while inserting or removing the K slump tester.
+5. Wait for 60 seconds, lower the measuring rod slowly until it rests on the surface of the concrete that has entered the tube and read the slump value directly on the scale of the measuring rod.
+6. Remove the tester from the fresh concrete vertically up don’t rotate or shake while removing the rod from the concrete.
+7. Due to the presence of holes at the bottom part of tester the concrete flows into the K slump tester.
+8. Again lower the measuring rod slowly till it touches the surface of the concrete retained in the tube and read workability directly on the scale of the measuring rod.

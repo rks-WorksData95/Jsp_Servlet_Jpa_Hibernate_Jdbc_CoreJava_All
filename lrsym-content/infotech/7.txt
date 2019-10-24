@@ -1,0 +1,16 @@
+USB Drives Remain Critical Cyberthreat
+https://www.darkreading.com/threat-intelligence/usb-drives-remain-critical-cyberthreat/d/d-id/1332894
+USB thumb drives may be used less frequently than before, but they are still commonly used as infection vectors for a wide variety of malware.
+Small USB sticks can mean big security troubles, according to a new report out today. While USB thumb drives have been overtaken by cloud services as convenient ways to move files from one system to another, they are still commonly used as infection vectors for a wide variety of malware.
+
+"USB threats from malware to miners," published on Kaspersky Labs' SecureList, looks specifically at the threats posed by the pocketable devices. According to the report, the Windows LNK malware family is the top threat, with over 22.7 million attempted WinLNK.Agent infections detected. They affected nearly 900,000 users in 2017 and, so far, just over 700,000 users in an estimated 23 million attacks in 2018.
+
+"USB devices may be less effective at spreading infection than in the past, due to growing awareness of their security weakness and declining use as a business tool, but our research shows they remain a significant risk that users should not underestimate," said Denis Parinov, anti-malware researcher at Kaspersky Lab, said in a prepared statement. 
+
+It's a risk that can actually grow with added security. In an interview at this week's Ignite 2018, Rob Lefferts, corporate vice president for Microsoft 365, security, and compliance at Microsoft, pointed out that security procedures that add too much "friction" to business processes are the source of shadow IT. "If you make things too difficult, slow things down too much, it drives users to put files on a USB drive or go to their own cloud service. They're going to get their work done," he said.
+
+Because USB sticks continue to get the work of carrying malware done, they have been frequent infection vehicles for malware families dating back as far as five years, according to the report. They are not simply vehicles for malicious nostalgia, though; the report notes that the USB payload can include cryptominers (often piggybacking on Trojans known since at least 2014).
+
+USB drives are a global problem, but they're especially prevalent in developing nations that may see more use of the small devices. The report notes that nations with less-developed communication infrastructures tend to see more local incidents of malware, such as root drive infections, while areas with better networking are more likely to be targeted by cryptominers and other revenue-generating issues.
+
+The report concludes with advice for minimizing the chances of malware infection through a USB drive. That includes being careful with unknown USB devices, investing in encrypted USB drives when they are necessary for business use, and putting a plan in place for checking every USB device (and every file on them) for malware prior to the files being transferred to any production machine.

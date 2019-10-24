@@ -1,0 +1,16 @@
+Principles of Risk Management
+https://www.managementstudyguide.com/principles-of-risk-management.htm
+Various organizations have laid down principles for risk management. There are risk management principles by International standardization Organization and by Project Management Body of Knowledge.
+
+The Project management body of knowledge (PMBOK) has laid down 12 principles. This article carries an amalgamation of both PMBOK and ISO principles. The various principles are:
+
+Organizational Context: Every organization is affected to varying degrees by various factors in its environment (Political, Social, Legal, and Technological, Societal etc). For example, an organization may be immune to change in import duty whereas a different organization operating in the same industry and environment may be at a severe risk. There are also marked differences in communication channels, internal culture and risk management procedures. The risk management should therefore be able to add value and be an integral part of the organizational process.
+Involvement of Stakeholders: The risk management process should involve the stakeholders at each and every step of decision making. They should remain aware of even the smallest decision made. It is further in the interest of the organization to understand the role the stakeholders can play at each step.
+Organizational Objectives: When dealing with a risk it is important to keep the organizational objectives in mind. The risk management process should explicitly address the uncertainty. This calls for being systematic and structured and keeping the big picture in mind.
+Reporting: In risk management communication is the key. The authenticity of the information has to be ascertained. Decisions should be made on best available information and there should be transparency and visibility regarding the same.
+Roles and Responsibilities: Risk Management has to be transparent and inclusive. It should take into account the human factors and ensure that each one knows it roles at each stage of the risk management process.
+Support Structure: Support structure underlines the importance of the risk management team. The team members have to be dynamic, diligent and responsive to change. Each and every member should understand his intervention at each stage of the project management lifecycle.
+Early Warning Indicators: Keep track of early signs of a risk translating into an active problem. This is achieved through continual communication by one and all at each level. It is also important to enable and empower each to deal with the threat at his/her level.
+Review Cycle: Keep evaluating inputs at each step of the risk management process - Identify, assess, respond and review. The observations are markedly different in each cycle. Identify reasonable interventions and remove unnecessary ones.
+Supportive Culture: Brainstorm and enable a culture of questioning, discussing. This will motivate people to participate more.
+Continual Improvement: Be capable of improving and enhancing your risk management strategies and tactics. Use your learning’s to access the way you look at and manage ongoing risk.

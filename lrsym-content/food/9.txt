@@ -1,0 +1,45 @@
+Space is money for dairy coffee creamer processor
+https://www.dairyfoods.com/articles/92503-space-is-money-for-dairy-coffee-creamer-processor
+TLM technology from Schubert offers the company efficient end-packaging of coffee creamer portion packs.
+
+Contributed by the Schubert Group
+
+For sensitive foods, portion packs ensure that their content is available as needed and fresh. Whether at a breakfast buffet or for a coffee to go, people enjoy coffee creamer portion packs. These very practical packaging formats, however, require highly efficient production processes in order to offer the portions packs at fair market prices.
+
+One of the largest producers of dairy creamer portion packs in Europe also wanted to make its production more efficient. Especially in end-packaging, there were considerable interesting opportunities for optimization.
+
+ 
+
+Pouring or inserting?
+
+In the past, the manufacturer had simply poured the portion packs into cartons for shipping. It was quick and didn’t require much effort at all. The downside was obvious with a peek into the cartons: A lot of space was unused. With such high product volumes, this practice resulted in significantly higher warehousing, transportation and packaging costs.
+
+When Schubert first suggested to the dairy plant’s head of operations during an advisory meeting that the portion cups be inserted in an orderly manner as an alternative to pouring them, he was initially quite skeptical. However, when he learned how much money could be saved, he immediately picked up his calculator. The decision in favor of a Schubert machine was made.
+
+ 
+
+Efficient packaging of different formats
+
+The new TLM system — which consists of seven modules and is equipped with five F2 robots, an F4 robot and two Transmodul lines — allows the portion packs to be stacked in layers in the cartons.
+
+While implementing the project, it was necessary to take account the different portion pack heights and weights for the format setting. The individual portion packs are fed into the Schubert system by the upstream machine using a synchronized chain.
+
+In the first sub-machine, an F2 robot removes the portion packs from the synchronized chain in groups of 16 rows of 10 packs, and places them on the Transmodul’s format plates. This rail-based transport robot then transports them further for grouping by an F2 robot with a changeable format tool. In accordance with specific respective requirements, the robot then grips the groups of eight x five or four x five portion packs and places them in three-, six- or eight-unit layers in the end-packaging.
+
+The capsules are then inserted in the right direction and scaled, whereby the orientation of the capsules was already determined by the previous machine. The robot tools were specially made for the dairy processing customer. In combination with the Transmodul, they enable hand-in-hand transfer: Once gripped, a product is not released until it is placed into a carton.
+
+The flat paperboard blanks are unstacked from the magazine using a TLM F3 robot and presented for takeover. An F2 robot takes the blank, leads it in a defined movement to glue nozzles, pushes it through a folding frame and places the erected carton on an available Transmodul. Vacuum cups on the format plates ensure a secure fit of the carton during transport to the filling station.
+
+In the last sub-machine, another F2 robot closes the cartons and conveys two cartons each per process step onward to the weighing belt, which controls whether a portion pack is missing. If the weight of the carton is correct, this is conveyed to the elevator.
+
+ 
+
+Significant improvements
+
+For the dairy plant, it was important that the machine had an in-feed and out-feed station so that capsules could be removed from the entire system for quality control purposes and then reintroduced. To this end, the TLM system is equipped with a further conveyor belt, with which portion packs can be manually inserted into the current packaging process. An F4 pick-and-place robot takes over these groups and then places them on the Transmodul line’s transport rails, before they are supplied to end-packaging.
+
+Overall, the system processes 15 different carton sizes with 60, 120, 240, 320 or 360 packs per carton, and with portion packs with capacities of 5 to 15 grams. Depending on the content, the system can process between five and 28 cartons per minute, with a constant output of 1,600 portion packs per minute.
+
+Thanks to the efficient configuration, the economic advantages the customer reaps from are clearly reflected in numbers. Since the company can now use smaller boxes, close to 35% more cartons can be loaded on a pallet.
+
+The customer has been able to reduce packaging material requirements by 17%. This means it needs up to one-third less storage space for the same amount of product.

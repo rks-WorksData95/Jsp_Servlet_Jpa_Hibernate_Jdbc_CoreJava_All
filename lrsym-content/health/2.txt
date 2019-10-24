@@ -1,0 +1,28 @@
+More Evidence That Nutrition Studies Don’t Always Add Up
+https://www.nytimes.com/2018/09/29/sunday-review/cornell-food-scientist-wansink-misconduct.html?rref=collection%2Fsectioncollection%2Fwell
+
+Not too long ago, Brian Wansink was one of the most respected food researchers in America.
+
+He founded the Food and Brand Lab at Cornell University, where he won attention for studies that showed that small behavioral changes could influence eating patterns. He found that large plates lead people to eat more food because they make portions look smaller and that children eat more vegetables when they have colorful names like “power peas.” Dr. Wansink wrote best-selling books and published hundreds of studies. For over a year, he served in a top nutrition policy role at the Department of Agriculture under George W. Bush, where he helped shape the government’s influential Dietary Guidelines. His research even led the government to spend almost $20 million redesigning school cafeterias, an initiative known as the Smarter Lunchrooms Movement.
+
+But this month, Dr. Wansink’s career at Cornell came to an unceremonious end. On Sept. 20, the university announced that a yearlong investigation had found that he committed “academic misconduct in his research and scholarship, including misreporting of research data,” and that he had tendered his resignation. The announcement came one day after the prestigious medical journal JAMA retracted six of Dr. Wansink’s studies because of questions about their “scientific validity.” Seven of his other papers had previously been retracted for similar reasons.
+
+“I think the extent of misconduct that has occurred with this author is unique,” Dr. Howard Bauchner, JAMA’s editor in chief, said in an interview. “There are literally millions of authors, and there’s very few who have had numerous papers retracted.”
+
+For more than a year, Dr. Wansink had been dogged by accusations that many of his studies were riddled with errors, data inconsistencies and evidence of fraud. In a statement, Dr. Wansink admitted to making “typos, transposition errors and some statistical mistakes” in his papers. But he defended his work and said that none of his mistakes “changed the substantive conclusions” of any of his papers. “I’m very proud of all of these papers,” he said, “and I’m confident they will be replicated by other groups.”
+
+Nutrition epidemiology is notorious for this. Scientists routinely scour data sets on large populations looking for links between specific foods or diets and health outcomes like chronic disease and life span. These studies can generate important findings and hypotheses. But they also have serious limitations. They cannot prove cause and effect, for example, and collecting dietary data from people is like trying to catch a moving target: Many people cannot recall precisely what they ate last month, last week or even in the past 48 hours. Plenty of other factors that influence health can also blur the impact of diet, such as exercise, socioeconomic status, sleep, genetics and environment. All of this makes the most popular food and health studies problematic and frequently contradictory.
+
+In one recent example, an observational study of thousands of people published in The Lancet last year made headlines with its findings that high-carb diets were linked to increased mortality rates and that eating saturated fat and meat was protective. Then in August, a separate team of researchers published an observational study of thousands of people in a related journal, The Lancet Public Health, with contrasting findings: Low-carb diets that were high in meat increased mortality rates.
+
+“You can analyze observational studies in very different ways and, depending on what your belief is — and there are very strong nutrition beliefs out there — you can get some very dramatic patterns,” Dr. Ioannidis said.
+
+Experts say that the problem extends to science journalists as well: Many reporters are encouraged to produce articles that get lots of clicks. That is another reason researchers and universities feel pressure to put out studies and news releases with exaggerated findings.
+
+“I would say that we’re all drinking from the same well, and we’re all contributing to poisoning the water,” said Ted Kyle, an obesity expert who runs a health site called ConscienHealth. “At every step along the way there are folks who are culpable. I would suspect that we’re all complicit.”
+
+Dr. Oransky said that while Dr. Wansink’s behavior was egregious, it is not something that is isolated to nutrition. Dr. Wansink would not even make Retraction Watch’s list of the top 30 scientists with the most retracted papers. One person on the list, an anesthesiologist, has had 183 retracted papers. Others on the list include a social psychologist, cancer researchers and an accounting professor. Dr. Oransky estimated that every year roughly 1,400 scientific papers are retracted out of the two million to three million that are published. What made this case stand out, he said, is that a media darling was at the center of it.
+
+(I personally have never interviewed Dr. Wansink in my 15 years as a health journalist. But that puts me in a small minority — he has been cited or quoted in more than 60 different Times articles dating from 1993 to late 2016.)
+
+Indeed, the unique part of this scandal is how prominent he was. “I don’t know too many reporters who’ve covered health and nutrition who’ve never quoted him,” said Dr. Oransky.

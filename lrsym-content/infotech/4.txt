@@ -1,0 +1,70 @@
+AI & Machine Learning: An Enterprise Guide
+https://www.informationweek.com/big-data/ai-machine-learning/ai-and-machine-learning-an-enterprise-guide/a/d-id/1332908?
+
+A collection of information resources designed to help enterprise IT professionals launch and advance their artificial intelligence, machine learning and automation initiatives.
+Set the buzz factor aside for a minute, and understand that artificial intelligence is doing real work for real companies. Even in the early stages of implementation, AI is providing enterprise organizations with benefits: Efficiency in operations, cybersecurity protections, innovation, and stronger customer relationships.
+
+However, the race to implement AI and machine learning also raises citizen privacy concerns. There have been revelations about the potential for algorithmic bias reflected in data sources. There has been speculation about AI applications going rogue. Executives worry about whether they are moving fast enough with their AI and machine language initiatives, and where the concepts offer the greatest rewards. Then there is the job front: Who will AI put out of work, and where will enterprise managers find the AI talent they need to compete?
+The editors of InformationWeek.com have compiled this collection of articles focused on AI and machine learning, featuring success stories, trends, and advice. This special report is a sample of what you will find each day on our site. For more than 30 years the InformationWeek editorial team has been leading the way in helping IT professionals stay up to date on enterprise technologies and strategies.
+
+Check out these articles and the hundreds of other informative content pieces -- about IT management, careers, analytics, DevOps, cloud, and more -- on InformationWeek.com, all at everyone's favorite price: Free.
+The Path to AI:
+
+10 Top Barriers to AI Success
+
+Enterprises are eager to experience the potential benefits from deploying artificial intelligence, but if they want to be successful, they'll need to overcome these technological, organizational and cultural challenges.
+
+Artificial Intelligence Starts in the IT Department
+
+If you need to show executives and department heads what AI can do for your company, IT automation is a great proof of concept.
+
+5 Machine Learning Technologies You Should Know
+
+There's more to machine learning and AI than languages. Here's a look at five important libraries and frameworks.
+
+Enterprises Wade Into the AI Pool
+
+Enterprises are piloting or planning for AI implementations, and use cases vary depending on industry. How does your company stack up?
+
+Why Your AI Pilot Fails to Launch
+
+Chances are your AI pilot project won't make it to production deployment. How come?
+
+AI to Help You Navigate the Workday
+
+Can you remember where to go to fill out your performance review? Your expense report? Complete your GDPR training? Why not let AI guide you through these administrative tasks.
+
+Where AI Can Turn 'Buzz' into 'Biz' Today
+
+AI can expedite manual processes that exist throughout an enterprise, but the nature of the human insight is necessary to rationally manage these processes and make contextual decisions.
+
+Machine Learning Workflow: A New Product Category Is Born
+
+Developing and deploying software based on machine learning is a very different animal in terms of process and workflow.
+
+Your First AI Project: Avoid Customer-facing Chatbots
+
+Your competitor has a shiny new AI-driven chatbot, so shouldn't you be developing one, too? Not necessarily. Here's why these customer-facing bots may not be the best first project for your AI program, and what you should choose instead.
+
+Conversational AI’s Challenge: Understanding Human-Like Context
+
+The ambiguities of the English language present hurdles for initiatives to utilize conversational AI in the corporate world
+Build Your AI and ML Teams
+
+Hire the Right Machine Learning Talent
+
+Decision intelligence engineering applies the technology already available to solve the business problems that you have today.
+
+Meet the Automation Architect
+
+There might be plenty of career opportunities for those who can bridge technology, people and processes.
+
+Tech Companies Poach AI Talent from Universities
+
+In a tight market for AI and machine learning, tech companies have always relied on a secret weapon -- tapping into the talent available in academia. But who will train tomorrow's AI experts?
+
+9 Ways AI and Intelligent Automation Affect the C-Suite
+
+AI and intelligent automation are changing the ways companies compete. Members of the C-suite need to contemplate a broader spectrum of issues than technology alone.
+
+  

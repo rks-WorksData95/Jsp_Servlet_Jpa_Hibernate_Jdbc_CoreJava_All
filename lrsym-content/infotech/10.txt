@@ -1,0 +1,35 @@
+In Quiet Change, Google Now Automatically Logging Users Into Chrome
+https://www.darkreading.com/vulnerabilities---threats/in-quiet-change-google-now-automatically-logging-users-into-chrome/d/d-id/1332882
+
+The change is a complete departure from Google's previous practice of keeping sign-in for Chrome separate from sign-ins to any Google service.
+In a change with potentially worrisome privacy implications, Google has begun to automatically log users in to Chrome whenever they use the browser to sign into Gmail or any other Google service.
+
+The change, introduced quietly with the new Chrome 69 release earlier this month, is a complete departure from Google's previous practice of keeping sign-in for Chrome separate from sign-ins to its other services. Previously, Gmail users concerned about Google collecting their browsing data could use Chrome without necessarily being signed into the browser.
+
+But starting with Chrome 69, the only way users can do that is to not be logged into any Google service at all. Signing into a Google account will automatically sign them into Chrome. Signing out of Chrome will automatically sign users out of their other Google accounts.
+
+In a blog Sunday, Matthew Green, a security researcher at Johns Hopkins University, blasted the change as having enormous implications on user privacy and trust. "The change makes a hash out of Google’s own privacy policies for Chrome," Green noted.
+
+The privacy policies – up until this week, at least – made it very clear that when people are using Chrome in "basic browser mode," their data is stored locally, and when they are signed into Chrome, their browsing data is shipped to Google. The implication up to now has been clear, Green said. "If you want privacy, don't sign in," he says. "But what happens if your browser decides to switch you from one mode to the other, all on its own?"
+
+Until Green's post on Sunday, few knew about Google's update. The only indication of the change is that users' Google profile pictures or icons now appear in the righthand corner of the browser window when they are logged into a Google account.
+
+In a Twitter thread responding to Green's blog post late Sunday night, Google software engineer Adrienne Felt insisted that though Google is now automatically signing people in to Chrome, it does not mean the company is automatically uploading their browsing data as well.
+
+In order for that to happen, users have to take the additional step of turning on a "Chrome Sync" feature after they are signed in, she said. By syncing, users can access their Chrome browsing histories across all devices. But Sync does not happen automatically when people get signed into Chrome, according to Felt.
+
+She added that Google is updating its privacy notices "ASAP" to better clarify the implications of its automatic sign-in update for Chrome.
+
+The new feature that automatically signs people into Chrome is called "identity consistency between browser and cookie jar." The only reason Google has added the feature is to prevent confusion among people sharing devices, Felt said in tweets that echoed comments made by two Chrome developers to Green. "In the past, people would sometimes sign out of the content area and think that meant they were no longer signed in to Chrome, which could cause problems on a shared device," Felt said.
+
+For example, an individual using a computer where another user might have previously signed into Chrome could end up having cookies from his browsing sessions uploaded to the originally signed-in user's account, Green said. However, this becomes a potential issue only for users who sign in to Chrome in the first place, he noted.
+
+The problem that the update is supposed to address does not impact users who choose not to log in to Chrome at all. If the problem has to do with signed-in users, it makes little sense for Google to make a change that forces unsigned users to become signed-in users, Green said.
+
+Troublingly, Google's new menu for users signing into Chrome is also so vague that people could easily end up granting consent to sync their browsing data when they, in fact, did not intend to do so, Green said. Where previously users had to put in the effort of entering their credentials to sign in to Chrome, they can now end up consenting to data upload "with a single accidental click."
+
+Google also has not made clear what data exactly it will upload when a previously logged-out user logs in to Chrome and turns on the Sync feature. It's not clear whether in this case Google will upload all of the data that was previously stored locally on the user's device, Green noted.
+
+Dark Reading has observed an equally confusing message when a user signs out of Gmail these days. The message notes that the user is signed out and that syncing is paused, and then adds:  "Your bookmarks, history, passwords, and more are no longer being synced to your account but will remain on this device. Sign in to start syncing again."
+
+In her tweets, Felt noted that Chrome data is not being uploaded without a user specifically consenting to syncing it. So it is not clear what other "bookmarks" or "history" it is that Google is referring to when it talks about "syncing." Google did not respond to Dark Reading's request for clarification. In response to a request for comment on Green's concerns, Google pointed to Felt's Twitter stream.

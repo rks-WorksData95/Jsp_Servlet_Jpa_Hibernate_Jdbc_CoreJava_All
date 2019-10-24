@@ -1,0 +1,45 @@
+Kelly Ball Test | Workabiltiy of concrete | Procedure
+https://civilread.com/kellyballtest/
+
+Workability of concrete is a complex property of concrete. Finding the workability of concrete requires a huge amount of data and involves lengthy calculations. Many researchers have tried with different parameters to measure the workability of the concrete and later found some of the tests which are very close to check the workability. The following tests are commonly used to check the workability of concrete.
+
+Slump test
+Compaction factor test
+Flow table test
+Kelly ball test
+Vee-Bee consistometer test.
+Now let’s dive into the Kelly ball test.
+
+The test has been determined and invented by Kelly and hence known as Kelly Ball Test or concrete ball test.
+
+Kelly ball test is a simple field test which is very useful in determining workability of concrete in real-time. It is justified that Kelly ball test performed faster and provided accurate results with great precision than the slump test. But the only disadvantage with the Kelly ball test that it requires a large amount of concrete when compared with the slump test of concrete.
+
+The Kelly ball test was earlier standardized as ASTM C360-92: “Standard Test Method for Ball Penetration in Freshly Mixed Hydraulic Cement Concrete.” The ASTM standard was suspended in 1999 due to lack of use. The test has never been used widely outside the United States (Bartos 1992). Indian Standards have not covered this test.
+
+Apparatus of Kelly ball test:
+Kelly ball test apparatus consists of a cylinder with one end having a hemispherical shape of 15cm weighing 13.6kg, and the other end is attached to a graduated scale and handle. The whole arrangement is secured on a fixed stand.
+
+The results have been specified by measuring the penetration made by the hemisphere when freely placed on fresh concrete. The impression is measured by a graduated scale immediately.
+
+
+Procedure for Kelly ball test:
+Freshly mixed concrete (test sample) is poured into a container up to a depth of 20cm. Once the container is filled with the concrete, the top surface is leveled and struck off.
+The Kelly ball setup is kept on concrete as shown below by holding the handle of hemisphere such that the frame touches the surface of the concrete.
+Ensure that the setup is kept at minimum 23cm away from the container ends. (Place at the middle portion of the container)
+Now release the handle and allow the ball to penetrate through the concrete. Once the ball is released, the depth of penetration is immediately shown in the graduate scale to the nearest 6mm.
+Note down the depth of penetration from the attached graduated scale.
+Repeat the same experiment for three times at different portions in the container and average the value.
+
+Formula for Kelly ball test:-
+The results of the Kelly ball test is correlated with the Slump test
+Average Value of the reading = Slump value
+
+Advantages of Kelly ball test:
+The test results are more accurate when compared with the slump test.
+This test is a simple and instant which can perform on site.
+It doesn’t require lengthy calculation to find the workability of concrete.
+Disadvantages of Kelly ball test:
+Kelly ball test is not suitable for larger size aggregates if used it influences the results.
+The surface of the concrete should be leveled to test the concrete.
+This test is not recognized and used by Indian standards.
+Large aggregate can influence the results.
